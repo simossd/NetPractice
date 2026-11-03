@@ -230,7 +230,7 @@ Example: `10.0.0.77/28` has block size 16, so the network is `.64`, the broadcas
 | 3 Network | Internet | IP, routers |
 | 2 Data link, 1 Physical | Network access | Ethernet, switches, cables |
 
-Mnemonic for OSI from 7 to 1: **A**ll **P**eople **S**eem **T**o **N**eed **D**ata **P**rocessing. NetPractice lives on layers 2 and 3.
+Mnemonic for OSI from 1 to 7: **P**lease **D**o **N**ot **T**hrow **S**ausage **P**izza **A**way (Physical, Data link, Network, Transport, Session, Presentation, Application). NetPractice lives on layers 2 and 3.
 
 ## Reading the simulator logs
 
