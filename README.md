@@ -2,7 +2,7 @@
 
 **Subnetting, gateways and static routing: 10 broken simulated networks, fixed by hand.**
 
-NetPractice is a networking exercise from the 42 curriculum. Each level shows a network that does not work: hosts, switches, routers and sometimes an "Internet" node. Some fields (IP addresses, masks, gateways, routing-table rows) are editable and some are locked. The job is to fill in the editable ones so that every goal (for example "host A must reach host C") succeeds, in both directions.
+NetPractice is a networking exercise from the 42 curriculum. Each level shows a network that does not work: hosts, switches, routers and sometimes an "Internet" node. Some fields (IP addresses,masks, gateways, routing-table rows) are editable and some are locked. The job is to fill in the editable ones so that every goal (for example "host A must reach host C") succeeds, in both directions.
 
 This repository contains my 10 exported configurations and a short guide to the method behind them.
 
